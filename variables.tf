@@ -2,6 +2,6 @@ variable "resource_group_name" {
   default = "ci_cd_azure"
 }
 
-variable "region" {
+variable "location" {
   default = "westus2"
 }
